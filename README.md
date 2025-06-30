@@ -5,9 +5,9 @@ This project implements a pricing model for **k-th to default Credit Default Swa
 ## General
 - **Notebook format**: Fully self-contained with explanations, visual outputs, and numerical validation, sensitivity analysis and simple stresstesting
 - Files in This Repository:
-  - kth_to_default_CDS.ipynb – main code and explanations
-  - kth_to_default_CDS.html – rendered notebook for quick viewing
-  - README.md – this file
+  - kth_to_default_CDS.ipynb - main code and explanations
+  - kth_to_default_CDS.html - rendered notebook for quick viewing
+  - README.md - this file
 
 ## Overview
 
